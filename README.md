@@ -40,10 +40,5 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/ikkkp/repo=SDP-BaseOn-Svm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikkkp&repo=SDP-BaseOn-Svm" />
-</a>
-<a href="https://github.com/ikkkp/mini-vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikkkp&repo=mini-vue" />
-</a>
+
 
