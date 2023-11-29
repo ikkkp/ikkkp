@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning front-end
 - 💬 Ask me about Ts/Vue/Rust
 - 📫 How to reach me: http://home.hzlssb.com
-- 😄 Read more about my blog: [https://blog.csdn.net/ikkkp](https://ikkkp.github.io/)
+- 😄 Read more about my blog: [- 📫 How to reach me: http://home.hzlssb.com](https://ikkkp.github.io/)
 
 <h3>Things I code with</h3>
 <p>
