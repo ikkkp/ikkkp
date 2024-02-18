@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm ikkkp
 
+[![ikkkp's Github stats](https://github-readme-stats.vercel.app/api?username=ikkkp&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/ikkkp)
 
 Here are some ideas to get you started:
 
