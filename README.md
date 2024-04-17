@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="rollupjs" src="https://img.shields.io/badge/-rollupjs-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
   <img alt="vitest" src="https://img.shields.io/badge/-vitest-6E9F18d?style=flat-square&logo=vitest&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="less" src="https://img.shields.io/badge/-less-1D365D?style=flat-square&logo=less&logoColor=white" />
