@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm ikkkp
-
-[![ikkkp's Github stats](https://github-readme-stats.vercel.app/api?username=ikkkp&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/ikkkp)
-
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on something cool
@@ -9,6 +6,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ts/Vue/Rust
 - 📫 How to reach me: http://home.hzlssb.com
 - 😄 Read more about my blog: - 📫 How to reach me: [https://ikkkp.github.io/](https://ikkkp.github.io/)
+
+[![ikkkp's Github stats](https://github-readme-stats.vercel.app/api?username=ikkkp&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/ikkkp)
+![亮色](https://raw.githubusercontent.com/ikkkp/ikkkp/bfd837305d4a0204373df335fc551840af42da1f/github-contribution-grid-snake.svg)
 
 <h3>Things I code with</h3>
 <p>
