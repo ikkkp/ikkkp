@@ -6,15 +6,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ts/Vue/Rust
 - 📫 How to reach me: http://home.hzlssb.com
 - 😄 Read more about my blog: - 📫 How to reach me: [https://ikkkp.github.io/](https://ikkkp.github.io/)
-<div align="center">
-  <!-- GitHub 数据统计 -->
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikkkp&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikkkp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
-  
-  ![亮色](https://raw.githubusercontent.com/ikkkp/ikkkp/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
