@@ -2,10 +2,6 @@
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning front-end
-- 💬 Ask me about Ts/Vue/Rust
-- 📫 How to reach me: http://home.hzlssb.com
-- 😄 Read more about my blog: - 📫 How to reach me: [https://ikkkp.github.io/](https://ikkkp.github.io/)
 <h3>Things I code with</h3>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
